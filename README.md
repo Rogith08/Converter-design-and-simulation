@@ -101,9 +101,12 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 # Output
 
+## AC to DC Converter
+![Screenshot 2025-04-25 144931](https://github.com/user-attachments/assets/e7cf49d6-8c41-48f3-b471-d55b39137f27)
+![Screenshot 2025-04-25 144915](https://github.com/user-attachments/assets/1d007e40-ac20-4603-95b7-d0cd8e24a61b)
+## DC to DC voltage regulator
 
-
-
+![Screenshot 2025-04-25 144901](https://github.com/user-attachments/assets/cbc940af-66dc-4a39-9627-c136b176efbd)
 
 # Result 
 
